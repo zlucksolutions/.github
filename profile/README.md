@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zluck Solutions</h1>
 <h3 align="center">A Web & Mobile App development Company!</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.zluck.com/portfolio/](https://www.zluck.com/portfolio/)
+- 👨‍💻 All of our projects are listed at [https://www.zluck.com/portfolio/](https://www.zluck.com/portfolio/)
 
-- 📝 I regularly write articles on [https://www.zluck.com/blogs/](https://www.zluck.com/blogs/)
+- 📝 We regularly write articles on [https://www.zluck.com/blogs/](https://www.zluck.com/blogs/)
 
 - 📫 How to reach me **info@zluck.com**
 
