@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zlucksolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zlucksolutions" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zluck-solutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zluck-solutions" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/zluck-solutions/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zluck-solutions" height="30" width="40" /></a>
 <a href="https://instagram.com/zlucksolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zlucksolutions" height="30" width="40" /></a>
 <a href="https://medium.com/@zluck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zluck" height="30" width="40" /></a>
 <a href="/https://www.zluck.com/?feed=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.zluck.com/?feed=rss" height="30" width="40" /></a>
