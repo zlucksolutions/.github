@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zluck Solutions</h1>
 <h3 align="center">A Web & Mobile App development Company!</h3>
 
-- 👨‍💻 All of our projects are listed at [https://www.zluck.com/portfolio/](https://www.zluck.com/portfolio/)
+- 👨‍💻 All of our projects are listed at [https://zluck.com/our-works/](https://zluck.com/our-works/)
 
-- 📝 We regularly write articles on [https://www.zluck.com/blogs/](https://www.zluck.com/blogs/)
+- 📝 We regularly write articles on [https://zluck.com/blogs/](https://zluck.com/blogs/)
 
 - 📫 How to reach me **info@zluck.com**
 
@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/company/zluck-solutions/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zluck-solutions" height="30" width="40" /></a>
 <a href="https://instagram.com/zlucksolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zlucksolutions" height="30" width="40" /></a>
 <a href="https://medium.com/@zluck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zluck" height="30" width="40" /></a>
-<a href="/https://www.zluck.com/?feed=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.zluck.com/?feed=rss" height="30" width="40" /></a>
+<a href="https://zluck.com/?feed=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zluck.com/?feed=rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
